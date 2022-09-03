@@ -1,10 +1,10 @@
-package com.crm;
+package com.cydeo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Spring06SpringBootDemoApplicationTests {
+class CydeoApplicationTests {
 
     @Test
     void contextLoads() {
